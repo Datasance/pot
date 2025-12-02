@@ -25,6 +25,10 @@ Agents are typically deployed on edge devices as native daemons. They can run on
 - **Remote Servers**: Far-edge servers in distributed deployments
 - **Any Linux Distribution**: Vendor-agnostic hardware support
 
+<div align="center">
+  <img src="images/docs/PoT_Agent_Deployment_Stack.png" alt="Agent Deployment Stack" style="background-color: white; padding: 10px; border-radius: 5px;">
+</div>
+
 ## Architecture
 
 Each Agent reports directly to a Controller. The Controller must be accessible from the Agent, but Agents don't need to be directly accessible from outside networks. This allows Agents to operate behind firewalls and NAT.
