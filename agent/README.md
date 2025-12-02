@@ -26,7 +26,7 @@ Agents are typically deployed on edge devices as native daemons. They can run on
 - **Any Linux Distribution**: Vendor-agnostic hardware support
 
 <div align="center">
-  <img src="images/docs/PoT_Agent_Deployment_Stack.png" alt="Agent Deployment Stack" style="background-color: white; padding: 10px; border-radius: 5px;">
+  <img src="../images/docs/PoT_Agent_Deployment_Stack.png" alt="Agent Deployment Stack" style="background-color: white; padding: 10px; border-radius: 5px;">
 </div>
 
 ## Architecture
