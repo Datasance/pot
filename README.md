@@ -22,7 +22,9 @@ PoT consists of several core components that work together to form an Edge Compu
 
 PoT provides a comprehensive layered architecture that supports distributed applications across diverse edge environments, from any software to any hardware:
 
-![PoT Platform Architecture](images/docs/PoT.png)
+<div align="center">
+  <img src="images/docs/PoT.png" alt="PoT Platform Architecture" style="background-color: white; padding: 10px; border-radius: 5px;">
+</div>
 
 ### Deployment Architectures
 
@@ -30,13 +32,17 @@ PoT provides a comprehensive layered architecture that supports distributed appl
 
 The control plane can be deployed remotely, with Controllers orchestrating distributed Agents across networks:
 
-![PoT Remote Control Plane Architecture](images/docs/PoT_Remote_ControlPlane.png)
+<div align="center">
+  <img src="images/docs/PoT_Remote_ControlPlane.png" alt="PoT Remote Control Plane Architecture" style="background-color: white; padding: 10px; border-radius: 5px;">
+</div>
 
 #### Kubernetes Control Plane Architecture
 
 For enterprise deployments, the control plane can be deployed on Kubernetes:
 
-![PoT Kubernetes Control Plane Architecture](images/docs/PoT_K8S_ControlPlane.png)
+<div align="center">
+  <img src="images/docs/PoT_K8S_ControlPlane.png" alt="PoT Kubernetes Control Plane Architecture" style="background-color: white; padding: 10px; border-radius: 5px;">
+</div>
 
 ## Key Features
 
